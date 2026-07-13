@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniBlogingApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4478f4fb7669a7fcec1f2ea88bb0dd0a42948b07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+997fd2cec44249dd8bea3e344a6e42a942c23ca4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniBlogingApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniBlogingApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

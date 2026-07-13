@@ -151,3 +151,10 @@ C:\Users\user\source\repos\MiniBlogingApi\MiniBlogingApi\bin\Debug\net10.0\Swash
 C:\Users\user\source\repos\MiniBlogingApi\MiniBlogingApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\user\source\repos\MiniBlogingApi\MiniBlogingApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\user\source\repos\MiniBlogingApi\MiniBlogingApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\user\source\repos\MiniBlogingApi\MiniBlogingApi\bin\Debug\net10.0\publish\web.config
+C:\Users\user\source\repos\MiniBlogingApi\MiniBlogingApi\bin\Debug\net10.0\publish\appsettings.Development.json
+C:\Users\user\source\repos\MiniBlogingApi\MiniBlogingApi\bin\Debug\net10.0\publish\appsettings.json
+C:\Users\user\source\repos\MiniBlogingApi\MiniBlogingApi\bin\Debug\net10.0\publish\MiniBlogingApi.deps.json
+C:\Users\user\source\repos\MiniBlogingApi\MiniBlogingApi\bin\Debug\net10.0\publish\MiniBlogingApi.runtimeconfig.json
+C:\Users\user\source\repos\MiniBlogingApi\MiniBlogingApi\bin\Debug\net10.0\publish\MiniBlogingApi.staticwebassets.endpoints.json
+C:\Users\user\source\repos\MiniBlogingApi\MiniBlogingApi\obj\Debug\net10.0\MiniBlogingApi.sourcelink.json
