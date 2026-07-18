@@ -1,11 +1,11 @@
 @MiniBlogingApi_HostAddress = http://localhost:5139
 
-GET {{MiniBlogingApi_HostAddress}}/weatherforecast/
-Accept: application/json
+# GET {{MiniBlogingApi_HostAddress}}/weatherforecast/
+# Accept: application/json
 
 ###
 
-GET {{MiniBlogingApi_HostAddress}}/api/blogs?search=Server
+GET {{MiniBlogingApi_HostAddress}}/api/blogs
 Accept: application/json
 
 ###
@@ -13,8 +13,8 @@ Accept: application/json
 POST {{MiniBlogingApi_HostAddress}}/api/blogs
 Content-Type: application/json
 {
-  "title":"Building MVC",
-  "content":"Mvc App in .net",
+  "title":"sytem design",
+  "content":"latency is deployment",
   "category":"Backend",
   "tags":["Server", "mvc", "Deployment"]
 }

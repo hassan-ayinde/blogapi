@@ -18,5 +18,5 @@ publish/
 ## Rider
 .idea/
 
-## VS Code
-.vscode/
+## Environment Variables
+.env

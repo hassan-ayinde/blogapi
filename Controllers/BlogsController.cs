@@ -79,8 +79,8 @@ namespace MiniBlogingApi.Controllers
                 Content = dto.Content,
                 Category = dto.Category,
                 Tags = string.Join(",", dto.Tags),
-                CreatedAt = DateTime.Now,
-                UpdatedAt = DateTime.Now
+                CreatedAt = DateTime.UtcNow,
+                UpdatedAt = DateTime.UtcNow
             };
 
             _context.Blogs.Add(blog);
@@ -119,7 +119,7 @@ namespace MiniBlogingApi.Controllers
             blog.Content = dto.Content;
             blog.Category = dto.Category;
             blog.Tags = string.Join(",", dto.Tags);
-            blog.UpdatedAt = DateTime.Now;
+            blog.UpdatedAt = DateTime.UtcNow;
 
             await _context.SaveChangesAsync();
 
