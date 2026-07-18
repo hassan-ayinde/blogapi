@@ -13,10 +13,10 @@ Accept: application/json
 POST {{MiniBlogingApi_HostAddress}}/api/blogs
 Content-Type: application/json
 {
-  "title":"sytem design",
-  "content":"latency is deployment",
-  "category":"Backend",
-  "tags":["Server", "mvc", "Deployment"]
+  "title":"frontend development",
+  "content":"css for styling",
+  "category":"frontend",
+  "tags":["styling", "css", "design"]
 }
 
 ###
