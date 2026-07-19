@@ -217,6 +217,10 @@ Deployment includes:
 - Swagger
 - Railway
 
+## Project Url
+
+[prject url](https://roadmap.sh/projects/blogging-platform-api)
+
 ---
 
 ## 📈 Future Improvements
