@@ -16,11 +16,11 @@ builder.Services.AddDbContext<BlogContext>(options =>
         builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
-//using (var scope = app.Services.CreateScope())
-//{
-//    var db = scope.ServiceProvider.GetRequiredService<BlogContext>();
-//    db.Database.Migrate();
-//}
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<BlogContext>();
+    db.Database.Migrate();
+}
 
 // Configure the HTTP request pipeline.
 
